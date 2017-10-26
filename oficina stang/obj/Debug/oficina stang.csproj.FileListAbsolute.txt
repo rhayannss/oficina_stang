@@ -1,0 +1,280 @@
+c:\users\nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\bin\Debug\oficina stang.exe.config
+c:\users\nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\bin\Debug\oficina stang.exe
+c:\users\nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\bin\Debug\oficina stang.pdb
+c:\users\nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.csprojResolveAssemblyReference.cache
+c:\users\nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.painel_controle.resources
+c:\users\nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.Properties.Resources.resources
+c:\users\nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.csproj.GenerateResource.Cache
+c:\users\nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.exe
+c:\users\nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.pdb
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_CLIENTE.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_ENCARREGADO.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_FAZENDA.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_FUNCIONARIO.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_PRODUTO.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_CARGO.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_CATEGORIA.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_CIDADE.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_CLIENTE.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ENCARREGADOS.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ESTADOS.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_FAZENDA.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_FUNCIONARIO.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_PRODUTO.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.MODELAGEM.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CLIENTE.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_ENCARREGADO.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_FAZENDA.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_FUNCIONARIO.resources
+C:\Users\Nvidia\documents\visual studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_PRODUTO.resources
+C:\Users\SLI\Dropbox\Projects\oficina stang\oficina stang\bin\Debug\oficina stang.exe.config
+C:\Users\SLI\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.exe
+C:\Users\SLI\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.pdb
+C:\Users\Nvidia\Documents\Visual Studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_ORDEM.resources
+C:\Users\Nvidia\Documents\Visual Studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ITEM_ORDEM.resources
+C:\Users\Nvidia\Documents\Visual Studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ITENS_SERVICO.resources
+C:\Users\Nvidia\Documents\Visual Studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ORDEM.resources
+C:\Users\Nvidia\Documents\Visual Studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_SERVICO.resources
+C:\Users\Nvidia\Documents\Visual Studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.VISUALIZADOR_RELATORIO.resources
+C:\Users\Nvidia\Documents\Visual Studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_ORDEN.resources
+C:\Users\Nvidia\Documents\Visual Studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_SERVICO.resources
+C:\Users\Nvidia\Documents\Visual Studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TESTE.resources
+C:\Users\Nvidia\Documents\Visual Studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DIVERSOS.DIV_RELATORIOS.resources
+C:\Users\Nvidia\Documents\Visual Studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_CLIENTE_DT.resources
+C:\Users\Nvidia\Documents\Visual Studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_FUNCI_SERVICO.resources
+C:\Users\Nvidia\Documents\Visual Studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_MATERIAL_DT.resources
+C:\Users\Nvidia\Documents\Visual Studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_OS_DT.resources
+C:\Users\Nvidia\Documents\Visual Studio 2012\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_SERVICO_DT.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\bin\Debug\oficina stang.exe.config
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\bin\Debug\oficina stang.exe
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\bin\Debug\oficina stang.pdb
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_CLIENTE.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_ENCARREGADO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_FAZENDA.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_FUNCIONARIO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_ORDEM.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_PRODUTO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_SERVICO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_CARGO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_CATEGORIA.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_CIDADE.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_CLIENTE.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ENCARREGADOS.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ESTADOS.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_FAZENDA.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_FUNCIONARIO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ITEM_ORDEM.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ITENS_SERVICO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ORDEM.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_PRODUTO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_SERVICO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DADOS.DAD_CLIENTE.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DADOS.DAD_FAZENDA.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DADOS.DAD_FUNCIONARIO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DADOS.DAD_PRODUTO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DIVERSOS.DIV_RELATORIOS.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.MODELAGEM.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.PAINEL_CONTROLE.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.Properties.Resources.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_CLIENTE_DT.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_FUNCI_SERVICO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_MATERIAL_DT.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_OS_DT.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_SERVICO_DT.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.VISUALIZADOR_RELATORIO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CIDADE_ESTADO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CLIENTE.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CLIENTE_EXCLUIR.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_ENCARREGADO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_FAZENDA.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_FUNCIONARIO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_FUNCIONARIO_EXCLUIR.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_ORDEN.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_PRODUTO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_SERVICO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TESTE.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.csproj.GenerateResource.Cache
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.exe
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.pdb
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.csprojResolveAssemblyReference.cache
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_CARGO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_CATEGORIA.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_MEDIDA.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_MEDIDAS.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CARGO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CATEGORIA.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_MEDIDAS.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_PRODUTO_V.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_SERVICOS_V.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_TRANSPORTADORA.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ITEM_NT_SAIDA.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_NT_SAIDA.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_OS_V.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_FUNCI_MATERIAL.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_NT_SAIDA.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_PAGAMENTO_PARC.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_PAGAMENTO_TOT.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DIVERSOS.DIV_PAG.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_APRAZO_N_PAGO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_APRAZO_PAGO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_NT_SAIDA.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_N_PAGO.resources
+C:\Users\Nvidia\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_PAGO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\bin\Debug\oficina stang.exe.config
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\bin\Debug\oficina stang.exe
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\bin\Debug\oficina stang.pdb
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.csprojResolveAssemblyReference.cache
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_CARGO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_CATEGORIA.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_CLIENTE.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_ENCARREGADO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_FAZENDA.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_FUNCIONARIO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_MEDIDA.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_NT_SAIDA.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_ORDEM.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_PRODUTO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_SERVICO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_CARGO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_CATEGORIA.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_CIDADE.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_CLIENTE.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ENCARREGADOS.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ESTADOS.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_FAZENDA.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_FUNCIONARIO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ITEM_NT_SAIDA.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ITEM_ORDEM.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ITENS_SERVICO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_MEDIDAS.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_NT_SAIDA.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ORDEM.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_PAGAMENTO_PARC.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_PAGAMENTO_TOT.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_PAGA_OS.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_PRODUTO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_SERVICO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_TRANSPORTADORA.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DADOS.DAD_CLIENTE.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DADOS.DAD_FAZENDA.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DADOS.DAD_FUNCIONARIO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DADOS.DAD_PRODUTO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DIVERSOS.DIV_PAG.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DIVERSOS.DIV_RELATORIOS.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.MODELAGEM.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.PAINEL_CONTROLE.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.Properties.Resources.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_CLIENTE_DT.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_FUNCI_MATERIAL.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_FUNCI_SERVICO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_MATERIAL_CUST.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_MATERIAL_DT.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_OS_DT.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_SERVICO_DT.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.VISUALIZADOR_RELATORIO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_APRAZO_N_PAGO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_APRAZO_PAGO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CAIXA.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CARGO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CARTAO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CATEGORIA.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CIDADE_ESTADO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CLIENTE.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CLIENTE_EXCLUIR.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_ENCARREGADO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_FAZENDA.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_FUNCIONARIO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_FUNCIONARIO_EXCLUIR.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_MEDIDAS.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_NT_SAIDA.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_N_PAGO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_ORDEN.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_OS_V.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_PAGO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_PRODUTO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_PRODUTO_V.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_SERVICO.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_SERVICOS_V.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TESTE.resources
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.csproj.GenerateResource.Cache
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.exe
+C:\Users\Maxumus\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.pdb
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\bin\Debug\oficina stang.exe.config
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.exe
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.pdb
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\bin\Debug\oficina stang.exe
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\bin\Debug\oficina stang.pdb
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_CARGO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_CATEGORIA.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_CLIENTE.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_ENCARREGADO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_FAZENDA.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_FUNCIONARIO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_MEDIDA.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_NT_SAIDA.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_ORDEM.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_PRODUTO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.ALTERAR.ALT_SERVICO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_CARGO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_CATEGORIA.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_CIDADE.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_CLIENTE.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ENCARREGADOS.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ESTADOS.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_FAZENDA.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_FUNCIONARIO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ITEM_NT_SAIDA.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ITEM_ORDEM.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ITENS_SERVICO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_MEDIDAS.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_NT_SAIDA.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_ORDEM.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_PAGAMENTO_PARC.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_PAGAMENTO_TOT.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_PAGA_OS.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_PRODUTO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_SERVICO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.CADASTRAR.CAD_TRANSPORTADORA.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DADOS.DAD_CLIENTE.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DADOS.DAD_FAZENDA.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DADOS.DAD_FUNCIONARIO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DADOS.DAD_PRODUTO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DIVERSOS.DIV_PAG.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.DIVERSOS.DIV_RELATORIOS.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.MODELAGEM.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.PAINEL_CONTROLE.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.Properties.Resources.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_CLIENTE_DT.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_FUNCI_MATERIAL.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_FUNCI_SERVICO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_MATERIAL_CUST.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_MATERIAL_DT.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_OS_DT.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.REL_SERVICO_DT.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.RELATORIOS.VISUALIZADOR_RELATORIO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_APRAZO_N_PAGO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_APRAZO_PAGO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CAIXA.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CARGO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CARTAO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CATEGORIA.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CIDADE_ESTADO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CLIENTE.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_CLIENTE_EXCLUIR.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_ENCARREGADO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_FAZENDA.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_FUNCIONARIO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_FUNCIONARIO_EXCLUIR.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_MEDIDAS.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_NT_SAIDA.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_N_PAGO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_ORDEN.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_OS_V.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_PAGO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_PRODUTO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_PRODUTO_V.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_SERVICO.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TABELAS.TAB_SERVICOS_V.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina_stang.TESTE.resources
+C:\Users\Hp\Dropbox\Projects\oficina stang\oficina stang\obj\Debug\oficina stang.csproj.GenerateResource.Cache

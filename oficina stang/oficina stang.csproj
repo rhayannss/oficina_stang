@@ -1,0 +1,1101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1927BE5A-54A7-484E-8098-6C743FE756D8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>oficina_stang</RootNamespace>
+    <AssemblyName>oficina stang</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ALTERAR\ALT_CARGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_CARGO.Designer.cs">
+      <DependentUpon>ALT_CARGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_CATEGORIA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_CATEGORIA.Designer.cs">
+      <DependentUpon>ALT_CATEGORIA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_CLIENTE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_CLIENTE.Designer.cs">
+      <DependentUpon>ALT_CLIENTE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_ENCARREGADO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_ENCARREGADO.Designer.cs">
+      <DependentUpon>ALT_ENCARREGADO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_FAZENDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_FAZENDA.Designer.cs">
+      <DependentUpon>ALT_FAZENDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_FUNCIONARIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_FUNCIONARIO.Designer.cs">
+      <DependentUpon>ALT_FUNCIONARIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_MEDIDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_MEDIDA.Designer.cs">
+      <DependentUpon>ALT_MEDIDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_NT_SAIDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_NT_SAIDA.Designer.cs">
+      <DependentUpon>ALT_NT_SAIDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_ORDEM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_ORDEM.Designer.cs">
+      <DependentUpon>ALT_ORDEM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_PRODUTO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_PRODUTO.Designer.cs">
+      <DependentUpon>ALT_PRODUTO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_SERVICO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALTERAR\ALT_SERVICO.Designer.cs">
+      <DependentUpon>ALT_SERVICO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BANCO.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BANCO.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_CARGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_CARGO.Designer.cs">
+      <DependentUpon>CAD_CARGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_CATEGORIA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_CATEGORIA.Designer.cs">
+      <DependentUpon>CAD_CATEGORIA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_CIDADE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_CIDADE.Designer.cs">
+      <DependentUpon>CAD_CIDADE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_CLIENTE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_CLIENTE.Designer.cs">
+      <DependentUpon>CAD_CLIENTE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_ENCARREGADOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_ENCARREGADOS.Designer.cs">
+      <DependentUpon>CAD_ENCARREGADOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_ESTADOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_ESTADOS.Designer.cs">
+      <DependentUpon>CAD_ESTADOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_FAZENDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_FAZENDA.Designer.cs">
+      <DependentUpon>CAD_FAZENDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_FUNCIONARIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_FUNCIONARIO.Designer.cs">
+      <DependentUpon>CAD_FUNCIONARIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_ITEM_NT_SAIDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_ITEM_NT_SAIDA.Designer.cs">
+      <DependentUpon>CAD_ITEM_NT_SAIDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_ITEM_ORDEM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_ITEM_ORDEM.Designer.cs">
+      <DependentUpon>CAD_ITEM_ORDEM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_ITENS_SERVICO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_ITENS_SERVICO.Designer.cs">
+      <DependentUpon>CAD_ITENS_SERVICO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_MEDIDAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_MEDIDAS.Designer.cs">
+      <DependentUpon>CAD_MEDIDAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_NT_SAIDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_NT_SAIDA.Designer.cs">
+      <DependentUpon>CAD_NT_SAIDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_ORDEM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_ORDEM.Designer.cs">
+      <DependentUpon>CAD_ORDEM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_PAGAMENTO_PARC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_PAGAMENTO_PARC.Designer.cs">
+      <DependentUpon>CAD_PAGAMENTO_PARC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_PAGAMENTO_TOT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_PAGAMENTO_TOT.Designer.cs">
+      <DependentUpon>CAD_PAGAMENTO_TOT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_PAGA_OS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_PAGA_OS.Designer.cs">
+      <DependentUpon>CAD_PAGA_OS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_PRODUTO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_PRODUTO.Designer.cs">
+      <DependentUpon>CAD_PRODUTO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_SERVICO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_SERVICO.Designer.cs">
+      <DependentUpon>CAD_SERVICO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_TRANSPORTADORA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTRAR\CAD_TRANSPORTADORA.Designer.cs">
+      <DependentUpon>CAD_TRANSPORTADORA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DADOS\DAD_CLIENTE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DADOS\DAD_CLIENTE.Designer.cs">
+      <DependentUpon>DAD_CLIENTE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DADOS\DAD_FAZENDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DADOS\DAD_FAZENDA.Designer.cs">
+      <DependentUpon>DAD_FAZENDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DADOS\DAD_FUNCIONARIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DADOS\DAD_FUNCIONARIO.Designer.cs">
+      <DependentUpon>DAD_FUNCIONARIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DADOS\DAD_PRODUTO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DADOS\DAD_PRODUTO.Designer.cs">
+      <DependentUpon>DAD_PRODUTO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DIVERSOS\DIV_PAG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVERSOS\DIV_PAG.Designer.cs">
+      <DependentUpon>DIV_PAG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DIVERSOS\DIV_RELATORIOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIVERSOS\DIV_RELATORIOS.Designer.cs">
+      <DependentUpon>DIV_RELATORIOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MODELAGEM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MODELAGEM.Designer.cs">
+      <DependentUpon>MODELAGEM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAINEL_CONTROLE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAINEL_CONTROLE.Designer.cs">
+      <DependentUpon>PAINEL_CONTROLE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RELATORIOS\REL_CAIXA.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REL_CAIXA.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_CLIENTE_DATA.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REL_CLIENTE_DATA.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_CLIENTE_DT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_CLIENTE_DT.Designer.cs">
+      <DependentUpon>REL_CLIENTE_DT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_FUNCIONARIO_MATERIAL.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REL_FUNCIONARIO_MATERIAL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_FUNCIONARIO_SERVICO.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REL_FUNCIONARIO_SERVICO.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_FUNCI_MATERIAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_FUNCI_MATERIAL.Designer.cs">
+      <DependentUpon>REL_FUNCI_MATERIAL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_FUNCI_SERVICO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_FUNCI_SERVICO.Designer.cs">
+      <DependentUpon>REL_FUNCI_SERVICO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_MATERIAIS_CUSTO.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REL_MATERIAIS_CUSTO.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_MATERIAL_CUST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_MATERIAL_CUST.Designer.cs">
+      <DependentUpon>REL_MATERIAL_CUST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_MATERIAL_DATA.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REL_MATERIAL_DATA.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_MATERIAL_DT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_MATERIAL_DT.Designer.cs">
+      <DependentUpon>REL_MATERIAL_DT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_MATERIAL_TOTAL.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REL_MATERIAL_TOTAL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_OS.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REL_OS.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_OS_DATA.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REL_OS_DATA.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_OS_DT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_OS_DT.Designer.cs">
+      <DependentUpon>REL_OS_DT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_PRECO_CONV.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REL_PRECO_CONV.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_PRECO_MATERIAL.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REL_PRECO_MATERIAL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_PROD_CUSTO.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REL_PROD_CUSTO.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_SERVICO_DT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_SERVICO_DT.Designer.cs">
+      <DependentUpon>REL_SERVICO_DT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_SERVICO_CLIENTE.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REL_SERVICO_CLIENTE.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\REL_SERVICO_TOTAL.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REL_SERVICO_TOTAL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\VISUALIZADOR_RELATORIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RELATORIOS\VISUALIZADOR_RELATORIO.Designer.cs">
+      <DependentUpon>VISUALIZADOR_RELATORIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_APRAZO_N_PAGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_APRAZO_N_PAGO.Designer.cs">
+      <DependentUpon>TAB_APRAZO_N_PAGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_APRAZO_PAGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_APRAZO_PAGO.Designer.cs">
+      <DependentUpon>TAB_APRAZO_PAGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_CAIXA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_CAIXA.Designer.cs">
+      <DependentUpon>TAB_CAIXA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_CARGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_CARGO.Designer.cs">
+      <DependentUpon>TAB_CARGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_CARTAO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_CARTAO.Designer.cs">
+      <DependentUpon>TAB_CARTAO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_CATEGORIA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_CATEGORIA.Designer.cs">
+      <DependentUpon>TAB_CATEGORIA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_CIDADE_ESTADO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_CIDADE_ESTADO.Designer.cs">
+      <DependentUpon>TAB_CIDADE_ESTADO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_CLIENTE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_CLIENTE.Designer.cs">
+      <DependentUpon>TAB_CLIENTE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_CLIENTE_EXCLUIR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_CLIENTE_EXCLUIR.Designer.cs">
+      <DependentUpon>TAB_CLIENTE_EXCLUIR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_ENCARREGADO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_ENCARREGADO.Designer.cs">
+      <DependentUpon>TAB_ENCARREGADO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_FAZENDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_FAZENDA.Designer.cs">
+      <DependentUpon>TAB_FAZENDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_FUNCIONARIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_FUNCIONARIO.Designer.cs">
+      <DependentUpon>TAB_FUNCIONARIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_FUNCIONARIO_EXCLUIR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_FUNCIONARIO_EXCLUIR.Designer.cs">
+      <DependentUpon>TAB_FUNCIONARIO_EXCLUIR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_MEDIDAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_MEDIDAS.Designer.cs">
+      <DependentUpon>TAB_MEDIDAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_NT_SAIDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_NT_SAIDA.Designer.cs">
+      <DependentUpon>TAB_NT_SAIDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_N_PAGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_N_PAGO.Designer.cs">
+      <DependentUpon>TAB_N_PAGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_ORDEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_ORDEN.Designer.cs">
+      <DependentUpon>TAB_ORDEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_OS_V.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_OS_V.Designer.cs">
+      <DependentUpon>TAB_OS_V.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_PAGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_PAGO.Designer.cs">
+      <DependentUpon>TAB_PAGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_PRODUTO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_PRODUTO.Designer.cs">
+      <DependentUpon>TAB_PRODUTO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_PRODUTO_V.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_PRODUTO_V.Designer.cs">
+      <DependentUpon>TAB_PRODUTO_V.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_SERVICO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_SERVICO.Designer.cs">
+      <DependentUpon>TAB_SERVICO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TABELAS\TAB_SERVICOS_V.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABELAS\TAB_SERVICOS_V.Designer.cs">
+      <DependentUpon>TAB_SERVICOS_V.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TESTE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TESTE.Designer.cs">
+      <DependentUpon>TESTE.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ALTERAR\ALT_CARGO.resx">
+      <DependentUpon>ALT_CARGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALTERAR\ALT_CATEGORIA.resx">
+      <DependentUpon>ALT_CATEGORIA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALTERAR\ALT_CLIENTE.resx">
+      <DependentUpon>ALT_CLIENTE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALTERAR\ALT_ENCARREGADO.resx">
+      <DependentUpon>ALT_ENCARREGADO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALTERAR\ALT_FAZENDA.resx">
+      <DependentUpon>ALT_FAZENDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALTERAR\ALT_FUNCIONARIO.resx">
+      <DependentUpon>ALT_FUNCIONARIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALTERAR\ALT_MEDIDA.resx">
+      <DependentUpon>ALT_MEDIDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALTERAR\ALT_NT_SAIDA.resx">
+      <DependentUpon>ALT_NT_SAIDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALTERAR\ALT_ORDEM.resx">
+      <DependentUpon>ALT_ORDEM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALTERAR\ALT_PRODUTO.resx">
+      <DependentUpon>ALT_PRODUTO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALTERAR\ALT_SERVICO.resx">
+      <DependentUpon>ALT_SERVICO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_CARGO.resx">
+      <DependentUpon>CAD_CARGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_CATEGORIA.resx">
+      <DependentUpon>CAD_CATEGORIA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_CIDADE.resx">
+      <DependentUpon>CAD_CIDADE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_CLIENTE.resx">
+      <DependentUpon>CAD_CLIENTE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_ENCARREGADOS.resx">
+      <DependentUpon>CAD_ENCARREGADOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_ESTADOS.resx">
+      <DependentUpon>CAD_ESTADOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_FAZENDA.resx">
+      <DependentUpon>CAD_FAZENDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_FUNCIONARIO.resx">
+      <DependentUpon>CAD_FUNCIONARIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_ITEM_NT_SAIDA.resx">
+      <DependentUpon>CAD_ITEM_NT_SAIDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_ITEM_ORDEM.resx">
+      <DependentUpon>CAD_ITEM_ORDEM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_ITENS_SERVICO.resx">
+      <DependentUpon>CAD_ITENS_SERVICO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_MEDIDAS.resx">
+      <DependentUpon>CAD_MEDIDAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_NT_SAIDA.resx">
+      <DependentUpon>CAD_NT_SAIDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_ORDEM.resx">
+      <DependentUpon>CAD_ORDEM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_PAGAMENTO_PARC.resx">
+      <DependentUpon>CAD_PAGAMENTO_PARC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_PAGAMENTO_TOT.resx">
+      <DependentUpon>CAD_PAGAMENTO_TOT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_PAGA_OS.resx">
+      <DependentUpon>CAD_PAGA_OS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_PRODUTO.resx">
+      <DependentUpon>CAD_PRODUTO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_SERVICO.resx">
+      <DependentUpon>CAD_SERVICO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTRAR\CAD_TRANSPORTADORA.resx">
+      <DependentUpon>CAD_TRANSPORTADORA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DADOS\DAD_CLIENTE.resx">
+      <DependentUpon>DAD_CLIENTE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DADOS\DAD_FAZENDA.resx">
+      <DependentUpon>DAD_FAZENDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DADOS\DAD_FUNCIONARIO.resx">
+      <DependentUpon>DAD_FUNCIONARIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DADOS\DAD_PRODUTO.resx">
+      <DependentUpon>DAD_PRODUTO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVERSOS\DIV_PAG.resx">
+      <DependentUpon>DIV_PAG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIVERSOS\DIV_RELATORIOS.resx">
+      <DependentUpon>DIV_RELATORIOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MODELAGEM.resx">
+      <DependentUpon>MODELAGEM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAINEL_CONTROLE.resx">
+      <DependentUpon>PAINEL_CONTROLE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RELATORIOS\REL_CAIXA.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REL_CAIXA.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_CLIENTE_DATA.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REL_CLIENTE_DATA.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_CLIENTE_DT.resx">
+      <DependentUpon>REL_CLIENTE_DT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_FUNCIONARIO_MATERIAL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REL_FUNCIONARIO_MATERIAL.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_FUNCIONARIO_SERVICO.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REL_FUNCIONARIO_SERVICO.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_FUNCI_MATERIAL.resx">
+      <DependentUpon>REL_FUNCI_MATERIAL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_FUNCI_SERVICO.resx">
+      <DependentUpon>REL_FUNCI_SERVICO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_MATERIAIS_CUSTO.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REL_MATERIAIS_CUSTO.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_MATERIAL_CUST.resx">
+      <DependentUpon>REL_MATERIAL_CUST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_MATERIAL_DATA.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REL_MATERIAL_DATA.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_MATERIAL_DT.resx">
+      <DependentUpon>REL_MATERIAL_DT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_MATERIAL_TOTAL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REL_MATERIAL_TOTAL.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_OS.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REL_OS.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_OS_DATA.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REL_OS_DATA.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_OS_DT.resx">
+      <DependentUpon>REL_OS_DT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_PRECO_CONV.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REL_PRECO_CONV.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_PRECO_MATERIAL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REL_PRECO_MATERIAL.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_PROD_CUSTO.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REL_PROD_CUSTO.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_SERVICO_DT.resx">
+      <DependentUpon>REL_SERVICO_DT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_SERVICO_CLIENTE.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REL_SERVICO_CLIENTE.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\REL_SERVICO_TOTAL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REL_SERVICO_TOTAL.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RELATORIOS\VISUALIZADOR_RELATORIO.resx">
+      <DependentUpon>VISUALIZADOR_RELATORIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_APRAZO_N_PAGO.resx">
+      <DependentUpon>TAB_APRAZO_N_PAGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_APRAZO_PAGO.resx">
+      <DependentUpon>TAB_APRAZO_PAGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_CAIXA.resx">
+      <DependentUpon>TAB_CAIXA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_CARGO.resx">
+      <DependentUpon>TAB_CARGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_CARTAO.resx">
+      <DependentUpon>TAB_CARTAO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_CATEGORIA.resx">
+      <DependentUpon>TAB_CATEGORIA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_CIDADE_ESTADO.resx">
+      <DependentUpon>TAB_CIDADE_ESTADO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_CLIENTE.resx">
+      <DependentUpon>TAB_CLIENTE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_CLIENTE_EXCLUIR.resx">
+      <DependentUpon>TAB_CLIENTE_EXCLUIR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_ENCARREGADO.resx">
+      <DependentUpon>TAB_ENCARREGADO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_FAZENDA.resx">
+      <DependentUpon>TAB_FAZENDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_FUNCIONARIO.resx">
+      <DependentUpon>TAB_FUNCIONARIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_FUNCIONARIO_EXCLUIR.resx">
+      <DependentUpon>TAB_FUNCIONARIO_EXCLUIR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_MEDIDAS.resx">
+      <DependentUpon>TAB_MEDIDAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_NT_SAIDA.resx">
+      <DependentUpon>TAB_NT_SAIDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_N_PAGO.resx">
+      <DependentUpon>TAB_N_PAGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_ORDEN.resx">
+      <DependentUpon>TAB_ORDEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_OS_V.resx">
+      <DependentUpon>TAB_OS_V.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_PAGO.resx">
+      <DependentUpon>TAB_PAGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_PRODUTO.resx">
+      <DependentUpon>TAB_PRODUTO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_PRODUTO_V.resx">
+      <DependentUpon>TAB_PRODUTO_V.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_SERVICO.resx">
+      <DependentUpon>TAB_SERVICO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TABELAS\TAB_SERVICOS_V.resx">
+      <DependentUpon>TAB_SERVICOS_V.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TESTE.resx">
+      <DependentUpon>TESTE.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="BANCO.xsc">
+      <DependentUpon>BANCO.xsd</DependentUpon>
+    </None>
+    <None Include="BANCO.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BANCO.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="BANCO.xss">
+      <DependentUpon>BANCO.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\159_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\503_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\998_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1003_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1352_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2663_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7138_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7595_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7742_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7742_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7813_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7818_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8149_256x256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10680_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10693_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11254_128x128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11292_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11292_128x128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11396_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11646_128x128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application-add-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application-search-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application-search-icon %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application-search-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application-settings-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-left-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-right-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-right-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Browser-Alternative-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Browser-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Devices-audio-card-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Devices-audio-card-icon %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-add-icon %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-blue-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-blue-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-checkbox-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-check-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-search-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Documents-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folder-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hi_Tech_Style_by_Haluskaaa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hitech.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile-add-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\run-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Accept-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\141113143918_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.4.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 4.0 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8396_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8396_48x48.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
